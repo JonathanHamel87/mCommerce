@@ -1,0 +1,3 @@
+INSERT INTO PRODUCT VALUES(1,'Ordinateur portable', 350, 120);
+INSERT INTO PRODUCT VALUES(2,'Aspirateur robot', 500, 200);
+INSERT INTO PRODUCT VALUES(3,'Table de Ping Pong', 750, 400);
